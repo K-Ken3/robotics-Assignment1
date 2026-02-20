@@ -31,5 +31,13 @@ header p {
     margin-top: 10px;
     color: #8e6b19;
 }
-
+footer {
+    background-color: #1F3A3D;
+    color: #F4EFEA;
+    text-align: center;
+    padding: 25px;
+    margin-top: 50px;
+    border-top: 6px solid #C6A75E;
+    font-size: 0.9rem;
+}
 
